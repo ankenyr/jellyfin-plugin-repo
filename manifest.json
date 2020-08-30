@@ -1,44 +1,20 @@
 [
-   {
-      "guid":"b4b4353e-dc57-4398-82c1-de9079e7146a",
-      "name":"Youtube Metadata",
-      "overview":"Pull YoutubeMetadata from info.json or YoutubeAPI.",
-      "description":"Pull YoutubeMetadata from info.json or YoutubeAPI.",
-      "owner":"ankenyr",
-      "category":"Metadata",
-      "versions":[
-         {
-            "checksum":"a14a399410f6449a1f250d51e111915b",
-            "changelog":"initial release",
-            "name":"YoutubeMetadata",
-            "targetAbi":"10.2.1",
-            "runtimes":"netframework,netcore",
-            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/v1.0.1/YoutubeMetadata.zip",
-            "filename":"YoutubeMetadata.zip",
-            "timestamp":"2020-04-19 00:00:00",
-            "version":"1.0.1"
-         }
-      ]
-   },
-   {
-      "guid":"3C96F5BC-4182-4B86-B05D-F730F2611E45",
-      "name":"Smart Playlist",
-      "overview":"Create automatically updating playlists based on rules.",
-      "description":"Create automatically updating playlists based on rules.",
-      "owner":"ankenyr",
-      "category":"Playlists",
-      "versions":[
-         {
-            "checksum":"BC32C4B3F7A8BEB1E476B27C1159B331",
-            "changelog":"initial release",
-            "name":"Smart Playlist",
-            "targetAbi":"10.6.0.0",
-            "runtimes":"netframework,netcore",
-            "sourceUrl":"https://github.com/ankenyr/jellyfin-smartplaylist-plugin/releases/download/v1.0.0.0/Smart.Playlist.zip",
-            "filename":"Smart.Playlist.zip",
-            "timestamp":"2020-08-29 00:00:00",
-            "version":"1.0.0.0"
-         }
-      ]
-   }
+    {
+        "guid": "3C96F5BC-4182-4B86-B05D-F730F2611E45",
+        "name": "Smart Playlist",
+        "description": "Create automatically updating playlists based on rules.\n",
+        "overview": "Create automatically updating playlists based on rules.",
+        "owner": "ankenyr",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/ankenyr/jellyfin-smartplaylist-plugin/releases/download/v1.0.0.0/Smart.Playlist.zip",
+                "checksum": "BC32C4B3F7A8BEB1E476B27C1159B331",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
+    }
 ]
