@@ -16,5 +16,25 @@
                 "timestamp": "2020-08-29T00:00:00Z"
             }
         ]
-    }
+    },
+    {
+    
+    "guid": "b4b4353e-dc57-4398-82c1-de9079e7146a",
+    "name": "YoutubeMetadata",
+    "description": "Pull YoutubeMetadata from info.json or YoutubeAPI.",
+    "overview": "Pull YoutubeMetadata from info.json or YoutubeAPI.",
+    "owner": "ankenyr",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.2.2"
+        "changelog": "Fixed error where new media would not get images without forcing reload of images.",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "hhttps://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.2.2/Jellyfin.Plugin.YoutubeMetadata.zip",
+        "checksum": "D45A404B613628FDE095A6B6D5FF9441",
+        "timestamp": "2020-09-11 00:00:00",
+        
+      }
+    ]
+  }
 ]
