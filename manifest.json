@@ -8,6 +8,14 @@
         "category": "General",
         "versions": [
             {
+                "version": "1.0.0.1",
+                "changelog": "Updating code to be compatible with 10.7.5",
+                "targetAbi": "10.7.5.0",
+                "sourceUrl": "https://github.com/ankenyr/jellyfin-smartplaylist-plugin/releases/download/1.0.0.1/Smart.Playlist.zip",
+                "checksum": "780C6F368F4DA2989A0CA5B0B138F913",
+                "timestamp": "2021-05-05T00:00:00Z"
+            },
+            {
                 "version": "1.0.0.0",
                 "changelog": "Initial Release",
                 "targetAbi": "10.6.0.0",
