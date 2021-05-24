@@ -48,7 +48,7 @@
             "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.2/Jellyfin.Plugin.YoutubeMetadata.zip",
             "checksum":"483211B425D216734E6CA8896D7F71CD",
             "timestamp":"2021-03-03 00:00:00"
-         }
+         },
          {
             "version":"1.0.2.2",
             "changelog":"Fixed error where new media would not get images without forcing reload of images.",
