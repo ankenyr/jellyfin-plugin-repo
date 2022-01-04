@@ -33,6 +33,14 @@
       "owner":"ankenyr",
       "category":"Metadata",
       "versions":[
+         {
+            "version":"1.0.3.4",
+            "changelog":"Adding Youtube-DL functionality",
+            "targetAbi":"10.8.0.0",
+            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.4/YoutubeMetadata.zip",
+            "checksum":"BDA400F6DDDE50fC3F21FFD0Cf3E",
+            "timestamp":"2022-01-04 00:00:00"
+         },
           {
             "version":"1.0.3.3",
             "changelog":"Adding Youtube-DL functionality",
