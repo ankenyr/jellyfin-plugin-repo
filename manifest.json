@@ -34,6 +34,14 @@
       "category":"Metadata",
       "versions":[
          {
+            "version":"1.0.3.7",
+            "changelog":"Adding logging and some fixed errors.",
+            "targetAbi":"10.8.0.0",
+            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.7/YoutubeMetadata.zip",
+            "checksum":"32533F1E2A7E04D04F838C7C759C2E7E",
+            "timestamp":"2022-06-11 00:00:00"
+         },
+         {
             "version":"1.0.3.6",
             "changelog":"Adding logging and some fixed errors.",
             "targetAbi":"10.8.0.0",
