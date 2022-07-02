@@ -34,6 +34,14 @@
       "category":"Metadata",
       "versions":[
          {
+            "version":"1.0.3.8",
+            "changelog":"Fixed error of improper identification of media files contained within same directory.",
+            "targetAbi":"10.8.0.0",
+            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.8/YoutubeMetadata.zip",
+            "checksum":"918CC1C646C35B4531C94C200F1B1721",
+            "timestamp":"2022-07-01 00:00:00"
+         },
+         {
             "version":"1.0.3.7",
             "changelog":"Adding logging and some fixed errors.",
             "targetAbi":"10.8.0.0",
