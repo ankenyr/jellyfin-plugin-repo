@@ -34,6 +34,14 @@
       "category":"Metadata",
       "versions":[
          {
+            "version":"1.0.3.9",
+            "changelog":"Fixed some errors around handling dates being empty in info.json.",
+            "targetAbi":"10.8.0.0",
+            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.9/YoutubeMetadata.zip",
+            "checksum":"AA7C5165EF2628F763AD8EC694A92EF8",
+            "timestamp":"2022-07-23 00:00:00"
+         },
+         {
             "version":"1.0.3.8",
             "changelog":"Fixed error of improper identification of media files contained within same directory.",
             "targetAbi":"10.8.0.0",
