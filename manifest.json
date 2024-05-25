@@ -37,7 +37,7 @@
             "version":"1.0.3.10",
             "changelog":"Updating to 10.9",
             "targetAbi":"10.9.0.0",
-            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.10/YoutubeMetadata.zip",
+            "sourceUrl":"https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.10/YoutubeMetadata-1.0.3.10.zip",
             "checksum":"BB52E225A93D7C3858559C946313DB34",
             "timestamp":"2024-05-25 00:00:00"
          },
