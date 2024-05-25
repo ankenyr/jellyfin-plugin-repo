@@ -35,11 +35,11 @@
         "versions": [
             {
                 "version": "1.0.3.10",
-                "changelog": "Updating to 10.9",
-                "targetAbi": "10.9.0.0",
-                "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.10/YoutubeMetadata-1.0.3.10.zip",
-                "checksum": "89DAF8FF3F5DD03E5DBA0EDD5A8A9C10",
-                "timestamp": "2024-05-25 00:00:00"
+                "changelog": "#66 Bryan792: Fixed error that prevented local metadata from being used. #105 nalsai: Updated the provider name #107 nalsai: Improved some util methods.\n",
+                "targetAbi": "10.9.1.0",
+                "sourceUrl": "https://github.com/ankenyr/jellyfin-plugin-repo/youtube-metadata/youtube-metadata_1.0.3.10.zip",
+                "checksum": "d606f6cf85e788725bf8fbf06ef68748",
+                "timestamp": "2024-05-25T23:24:21Z"
             },
             {
                 "version": "1.0.3.9",
