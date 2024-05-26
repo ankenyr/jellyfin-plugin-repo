@@ -42,22 +42,6 @@
                 "timestamp": "2024-05-26T00:01:24Z"
             },
             {
-                "version": "1.0.3.11",
-                "changelog": "#66 Bryan792: Fixed error that prevented local metadata from being used. #105 nalsai: Updated the provider name #107 nalsai: Improved some util methods.\n",
-                "targetAbi": "10.9.1.0",
-                "sourceUrl": "https://raw.githubusercontent.com/ankenyr/jellyfin-plugin-repo/master/youtube-metadata/youtube-metadata_1.0.3.11.zip",
-                "checksum": "452c2fa22185c5f08f6cfa61744f0ab9",
-                "timestamp": "2024-05-25T23:33:21Z"
-            },
-            {
-                "version": "1.0.3.10",
-                "changelog": "#66 Bryan792: Fixed error that prevented local metadata from being used. #105 nalsai: Updated the provider name #107 nalsai: Improved some util methods.\n",
-                "targetAbi": "10.9.1.0",
-                "sourceUrl": "https://github.com/ankenyr/jellyfin-plugin-repo/youtube-metadata/youtube-metadata_1.0.3.10.zip",
-                "checksum": "d606f6cf85e788725bf8fbf06ef68748",
-                "timestamp": "2024-05-25T23:24:21Z"
-            },
-            {
                 "version": "1.0.3.9",
                 "changelog": "Fixed some errors around handling dates being empty in info.json.",
                 "targetAbi": "10.8.0.0",
