@@ -47,7 +47,7 @@
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.9/YoutubeMetadata.zip",
                 "checksum": "AA7C5165EF2628F763AD8EC694A92EF8",
-                "timestamp": "2022-07-23 00:00:00"
+                "timestamp": "2022-07-23T00:00:00"
             },
             {
                 "version": "1.0.3.8",
@@ -55,7 +55,7 @@
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.8/YoutubeMetadata.zip",
                 "checksum": "918CC1C646C35B4531C94C200F1B1721",
-                "timestamp": "2022-07-01 00:00:00"
+                "timestamp": "2022-07-01T00:00:00"
             },
             {
                 "version": "1.0.3.7",
@@ -63,7 +63,7 @@
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.7/YoutubeMetadata.zip",
                 "checksum": "D92FB305193BEF404470C82B5295913B",
-                "timestamp": "2022-06-11 00:00:00"
+                "timestamp": "2022-06-11T00:00:00"
             },
             {
                 "version": "1.0.3.6",
@@ -71,7 +71,7 @@
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.6/YoutubeMetadata.zip",
                 "checksum": "CE1BACA83B3B5A5F46FCE0BE3206F2E3",
-                "timestamp": "2022-05-05 00:00:00"
+                "timestamp": "2022-05-05T00:00:00"
             },
             {
                 "version": "1.0.3.5",
@@ -79,7 +79,7 @@
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.5/YoutubeMetadata.zip",
                 "checksum": "751BDE3C3C3C7E6AF082CB546AABEA38",
-                "timestamp": "2022-01-13 00:00:00"
+                "timestamp": "2022-01-13T00:00:00"
             },
             {
                 "version": "1.0.3.4",
@@ -87,7 +87,7 @@
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.4/YoutubeMetadata.zip",
                 "checksum": "DBA4E95BD91941BA0BA5A05B4F1163F7",
-                "timestamp": "2022-01-04 00:00:00"
+                "timestamp": "2022-01-04T00:00:00"
             },
             {
                 "version": "1.0.3.3",
@@ -95,7 +95,7 @@
                 "targetAbi": "10.7.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.3/YoutubeMetadata.zip",
                 "checksum": "90148931C282F48A27FF478237EFBD8C",
-                "timestamp": "2021-05-23 00:00:00"
+                "timestamp": "2021-05-23T00:00:00"
             },
             {
                 "version": "1.0.3.2",
@@ -103,7 +103,7 @@
                 "targetAbi": "10.7.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.2/Jellyfin.Plugin.YoutubeMetadata.zip",
                 "checksum": "483211B425D216734E6CA8896D7F71CD",
-                "timestamp": "2021-03-03 00:00:00"
+                "timestamp": "2021-03-03T00:00:00"
             },
             {
                 "version": "1.0.2.2",
@@ -111,7 +111,7 @@
                 "targetAbi": "10.6.0.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.2.2/Jellyfin.Plugin.YoutubeMetadata.zip",
                 "checksum": "D45A404B613628FDE095A6B6D5FF9441",
-                "timestamp": "2020-09-11 00:00:00"
+                "timestamp": "2020-09-11T00:00:00"
             }
         ]
     }
