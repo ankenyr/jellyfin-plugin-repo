@@ -34,6 +34,14 @@
         "category": "Metadata",
         "versions": [
             {
+                "version": "1.0.3.13",
+                "changelog": "#120 tcely: Match a specific YouTube ID for thumbnail #143 mcronce: Jellyfin 10.11 support\n",
+                "targetAbi": "10.9.1.0",
+                "sourceUrl": "https://raw.githubusercontent.com/ankenyr/jellyfin-plugin-repo/master/youtube-metadata/youtube-metadata_1.0.3.13.zip",
+                "checksum": "0267332a3a0eab8be33c82bab72d278f",
+                "timestamp": "2026-01-20T19:24:22Z"
+            },
+            {
                 "version": "1.0.3.12",
                 "changelog": "#66 Bryan792: Fixed error that prevented local metadata from being used. #105 nalsai: Updated the provider name #107 nalsai: Improved some util methods.\n",
                 "targetAbi": "10.9.1.0",
