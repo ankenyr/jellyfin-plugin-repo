@@ -36,7 +36,7 @@
             {
                 "version": "1.0.3.14",
                 "changelog": "#147 a-andreyev: Implement GetSearchResults for Identify support\n",
-                "targetAbi": "10.9.1.0",
+                "targetAbi": "10.11.4.0",
                 "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/v1.0.3.14/youtube-metadata_1.0.3.14.zip",
                 "checksum": "ca196a1223ef0cc5abec0821256d8191",
                 "timestamp": "2026-01-26T20:26:31Z"
