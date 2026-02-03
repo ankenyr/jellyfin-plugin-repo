@@ -34,6 +34,14 @@
         "category": "Metadata",
         "versions": [
             {
+                "version": "1.0.3.15",
+                "changelog": "#154 staticdev: fix targetAbi and target to Jellyfin 10.11.2\n",
+                "targetAbi": "10.11.2",
+                "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/v1.0.3.15/youtube-metadata_1.0.3.15.zip",
+                "checksum": "3c6185def2abdb6bb5785a4f5494435a",
+                "timestamp": "2026-02-03T11:58:20Z"
+            },
+            {
                 "version": "1.0.3.14",
                 "changelog": "#147 a-andreyev: Implement GetSearchResults for Identify support\n",
                 "targetAbi": "10.11.4.0",
